@@ -13,7 +13,8 @@
 <ol>
   <li>Задание J решено брут-форсом 2 теста с большими данными не проходит (очень долго обрабатывает)</li>
   Результаты открытых тестов:
-  <img src="https://github.com/Gladarfin/OzonContestApr23/assets/59795136/5f6fb3e9-1795-49ca-b0b0-4888ba67d7fe"/>
+  <img src="https://github.com/Gladarfin/OzonContestApr23/assets/59795136/82034be7-2557-47f2-a149-634108d0348a"/>
+
 
 
 <h3>Задания:</h3>
