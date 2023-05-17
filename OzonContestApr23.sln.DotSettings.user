@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=82586925_002Db0ae_002D4554_002Db21e_002D4f3f0c15b783/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ContestApr23BTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C68688B2-7DB0-4262-9761-4A77A660972E::net7.0::OzonContestApr23.Tests.ContestApr23BTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C68688B2-7DB0-4262-9761-4A77A660972E::net7.0::OzonContestApr23.Tests.ContestApr23CTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C68688B2-7DB0-4262-9761-4A77A660972E::net7.0::OzonContestApr23.Tests.ContestApr23DTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C68688B2-7DB0-4262-9761-4A77A660972E::net7.0::OzonContestApr23.Tests.ContestApr23ETests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C68688B2-7DB0-4262-9761-4A77A660972E::net7.0::OzonContestApr23.Tests.ContestApr23FTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C68688B2-7DB0-4262-9761-4A77A660972E::net7.0::OzonContestApr23.Tests.ContestApr23GTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C68688B2-7DB0-4262-9761-4A77A660972E::net7.0::OzonContestApr23.Tests.ContestApr23HTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C68688B2-7DB0-4262-9761-4A77A660972E::net7.0::OzonContestApr23.Tests.ContestApr23ITests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C68688B2-7DB0-4262-9761-4A77A660972E::net7.0::OzonContestApr23.Tests.ContestApr23JTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Ozon/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

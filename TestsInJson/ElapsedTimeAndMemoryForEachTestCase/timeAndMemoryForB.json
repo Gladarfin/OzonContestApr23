@@ -1,0 +1,52 @@
+[
+  {
+    "TestNumber": 1,
+    "ElapsedTime": 0.0020812,
+    "MemoryAllocatedBytes": 6168
+  },
+  {
+    "TestNumber": 2,
+    "ElapsedTime": 0.0001617,
+    "MemoryAllocatedBytes": 116240
+  },
+  {
+    "TestNumber": 3,
+    "ElapsedTime": 0.000139,
+    "MemoryAllocatedBytes": 115288
+  },
+  {
+    "TestNumber": 4,
+    "ElapsedTime": 0.0001399,
+    "MemoryAllocatedBytes": 114560
+  },
+  {
+    "TestNumber": 5,
+    "ElapsedTime": 0.0001416,
+    "MemoryAllocatedBytes": 115496
+  },
+  {
+    "TestNumber": 6,
+    "ElapsedTime": 0.0001489,
+    "MemoryAllocatedBytes": 115280
+  },
+  {
+    "TestNumber": 7,
+    "ElapsedTime": 0.0001408,
+    "MemoryAllocatedBytes": 114248
+  },
+  {
+    "TestNumber": 8,
+    "ElapsedTime": 0.0001444,
+    "MemoryAllocatedBytes": 114136
+  },
+  {
+    "TestNumber": 9,
+    "ElapsedTime": 0.0001388,
+    "MemoryAllocatedBytes": 114072
+  },
+  {
+    "TestNumber": 10,
+    "ElapsedTime": 0.0001906,
+    "MemoryAllocatedBytes": 113880
+  }
+]
